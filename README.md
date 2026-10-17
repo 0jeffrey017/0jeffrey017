@@ -4,6 +4,10 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=0jeffrey017&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=gruvbox_light)](https://github.com/0jeffrey017)
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=0jeffrey017)](https://github.com/stats-organization/github-stats-extended)
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=0jeffrey017&repo=type-trident)](https://github.com/anuraghazra/type-trident)
+
 ### 🎮 About Me
 
 - 🔭 **Currently Working On:** Unity 2D/3D game systems, architecture design (MVP, Event Bus, HSM), and server-authoritative networking setups.
