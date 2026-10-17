@@ -1,5 +1,7 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=0jeffrey017&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=0jeffrey017&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=gruvbox_light)
 <!--
 **0jeffrey017/0jeffrey017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
