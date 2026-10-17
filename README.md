@@ -2,10 +2,11 @@
 
 # 🎮 Welcome to my GitHub Profile!
 
-<!-- Visitor Counter & Typing Header -->
+<!-- Typing Header -->
 ![Header Text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=689D6A&center=true&vCenter=true&width=500&lines=Game+Programmer;Unity+%2F+C%23+%2F+C%2B%2B+Developer;Architecture+%2F+DOTS+%2F+WebGL)
 
-[![Profile Views](https://img.shields.io/github/visitors/0jeffrey017/0jeffrey017?style=for-the-badge&color=8ec07c&labelColor=282828&logo=github)](https://github.com/0jeffrey017)
+<!-- Fixed Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=0jeffrey017&color=8ec07c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -49,7 +50,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=0jeffrey017&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=gruvbox_light)](https://github.com/0jeffrey017)
+<!-- GitHub Stats & Top Languages side-by-side (stacks vertically on mobile) -->
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=0jeffrey017&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=gruvbox_light" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jeffrey017&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
 
 </div>
 
